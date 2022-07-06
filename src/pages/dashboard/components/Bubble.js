@@ -83,6 +83,7 @@ const Bubble = ({ data }) => {
       }
     })
 
+
     return () => root.dispose()
 
 // Generate and set data
